@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello Shreshtha Srivatava here👋
+👩‍💻 B.Tech IT | Bharati Vidyapeeth College of Engineering
+💼 Focused on Web Development, Data Anlysis and Machine Learning
+🛠️ Skills: Python, JavaScript, MySQL, MongoDB
+📊 Tools: Pandas, Scikit-learn, Power BI
+📈 Building real-world projects in ML & Web Development 
+📫 srivastavashreshtha1@gmail.com
 
 <!--
 **Shreshtha9/Shreshtha9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
